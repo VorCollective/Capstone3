@@ -41,9 +41,9 @@
 - **Key Transformations**:
   ```excel
   # Excel Transformation Formulas:
-  🌍 Planet Classification =IF(E2<1.5,"Earth-sized",IF(E2<4,"Super-Earth",IF(E2<8,"Neptune-sized","Giant")))
-  ⭐ Habitability Score =IF(AND(E2>=0.8,E2<=1.5,F2>=200,F2<=330),"High","Medium/Low")
-  🎯 Orbital Zone =IF(G2<0.1,"Inner",IF(G2<2,"Habitable Zone","Outer"))
+  🌍 Planet Classification =IF(F2<1.5,"Earth-sized",IF(F2<4,"Super-Earth",IF(F2<8,"Neptune-sized","Giant")))
+  ⭐ Habitability Score =IF(AND(F2>=0.8,F2<=1.5,G2>=200,G2<=330),"High","Medium/Low")
+  🎯 Orbital Zone =IF(J2<0.1,"Inner",IF(J2<2,"Habitable Zone","Outer"))
   📅 Discovery Era =ROUNDDOWN(C2/10,0)*10
   ```
 

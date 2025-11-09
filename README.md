@@ -4,7 +4,7 @@
 
 **Live Application:** [https://exoplanet-visualization-analysis2025.lovable.app/](https://exoplanet-visualization-analysis2025.lovable.app/)  
 **Tableau Public Visualization:** [https://public.tableau.com/app/profile/benson.lemungat8781/viz/ExoplanetAnalysisVisualization/Dashboard](https://public.tableau.com/app/profile/benson.lemungat8781/viz/ExoplanetAnalysisVisualization/Dashboard)
-**Technical Article:**[https://lebensons.hashnode.dev/exoplanet-visualization-and-analysis]
+**Technical Article:**[https://lebensons.hashnode.dev/exoplanet-visualization-and-analysis](https://lebensons.hashnode.dev/exoplanet-visualization-and-analysis)
 
 ## Table of Contents
 

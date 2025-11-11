@@ -3,7 +3,9 @@
 ![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange) ![Excel](https://img.shields.io/badge/Excel-Data%20Preparation-green) ![NASA](https://img.shields.io/badge/Data-NASA%20Exoplanet-blue) ![ETL](https://img.shields.io/badge/ETL-Data%20Pipeline-yellow)
 
 **Live Application:** [https://exoplanet-visualization-analysis2025.lovable.app/](https://exoplanet-visualization-analysis2025.lovable.app/)  
+
 **Tableau Public Visualization:** [https://public.tableau.com/app/profile/benson.lemungat8781/viz/ExoplanetAnalysisVisualization/Dashboard](https://public.tableau.com/app/profile/benson.lemungat8781/viz/ExoplanetAnalysisVisualization/Dashboard)
+
 **Technical Article:**[https://lebensons.hashnode.dev/exoplanet-visualization-and-analysis](https://lebensons.hashnode.dev/exoplanet-visualization-and-analysis)
 
 ## Table of Contents
